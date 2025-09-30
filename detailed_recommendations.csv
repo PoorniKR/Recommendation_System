@@ -1,0 +1,151 @@
+user_id,user_interests,recommendation_rank,post_id,post_content_type,post_tags,recommendation_score,match_reason
+U1,"sports, art, gaming",1,P78,video,"sports, art",0.6,"Common interests: art, sports"
+U1,"sports, art, gaming",2,P22,audio,"sports, art",0.5454545454545453,"Common interests: art, sports"
+U1,"sports, art, gaming",3,P12,video,fitness,0.4,Popular content or collaborative filtering
+U2,"travel, food, fashion",1,P1,video,"sports, food",0.7,Common interests: food
+U2,"travel, food, fashion",2,P5,image,"food, fashion",0.6,"Common interests: fashion, food"
+U2,"travel, food, fashion",3,P80,video,"travel, food",0.6,"Common interests: food, travel"
+U3,"sports, travel, fashion",1,P39,video,"travel, sports",0.8902177630067947,"Common interests: sports, travel"
+U3,"sports, travel, fashion",2,P1,video,"sports, food",0.6736132019219243,Common interests: sports
+U3,"sports, travel, fashion",3,P34,video,"travel, sports",0.6,"Common interests: sports, travel"
+U4,"fashion, music, tech",1,P53,video,"fashion, tech",1.0,"Common interests: fashion, tech"
+U4,"fashion, music, tech",2,P37,text,"tech, music",0.7653785006952527,"Common interests: music, tech"
+U4,"fashion, music, tech",3,P96,video,"music, fashion",0.6,"Common interests: music, fashion"
+U5,"fashion, food, fitness",1,P5,image,"food, fashion",0.6,"Common interests: fashion, food"
+U5,"fashion, food, fitness",2,P7,image,"food, fitness",0.6,"Common interests: food, fitness"
+U5,"fashion, food, fitness",3,P26,image,"food, fitness",0.6,"Common interests: food, fitness"
+U6,"fashion, food, fitness",1,P7,image,"food, fitness",0.6,"Common interests: food, fitness"
+U6,"fashion, food, fitness",2,P26,image,"food, fitness",0.6,"Common interests: food, fitness"
+U6,"fashion, food, fitness",3,P35,image,"fitness, food",0.6,"Common interests: food, fitness"
+U7,"food, fashion, art",1,P70,image,"art, food",0.9572344009187537,"Common interests: art, food"
+U7,"food, fashion, art",2,P69,text,"fashion, food",0.9454545454545453,"Common interests: fashion, food"
+U7,"food, fashion, art",3,P5,image,"food, fashion",0.6,"Common interests: fashion, food"
+U8,"food, sports, gaming",1,P1,video,"sports, food",0.6,"Common interests: food, sports"
+U8,"food, sports, gaming",2,P17,video,"food, sports",0.6,"Common interests: food, sports"
+U8,"food, sports, gaming",3,P46,video,"food, sports",0.6,"Common interests: food, sports"
+U9,"art, travel, sports",1,P34,video,"travel, sports",0.6,"Common interests: sports, travel"
+U9,"art, travel, sports",2,P78,video,"sports, art",0.6,"Common interests: art, sports"
+U9,"art, travel, sports",3,P97,video,"travel, sports",0.6,"Common interests: sports, travel"
+U10,"fashion, music, literature",1,P14,text,"literature, music",0.7562852526227251,"Common interests: music, literature"
+U10,"fashion, music, literature",2,P54,video,"literature, music",0.6,"Common interests: music, literature"
+U10,"fashion, music, literature",3,P57,text,"sports, literature",0.4,Common interests: literature
+U11,"gaming, literature, tech",1,P49,video,"tech, gaming",0.6,"Common interests: gaming, tech"
+U11,"gaming, literature, tech",2,P40,text,"sports, fitness",0.4,Popular content or collaborative filtering
+U11,"gaming, literature, tech",3,P35,image,"fitness, food",0.3630756793202474,Popular content or collaborative filtering
+U12,"fitness, travel, gaming",1,P64,image,"travel, fitness",0.6,"Common interests: fitness, travel"
+U12,"fitness, travel, gaming",2,P81,image,"gaming, fitness",0.6,"Common interests: gaming, fitness"
+U12,"fitness, travel, gaming",3,P33,image,gaming,0.4,Common interests: gaming
+U13,"food, sports, art",1,P1,video,"sports, food",0.6,"Common interests: food, sports"
+U13,"food, sports, art",2,P46,video,"food, sports",0.6,"Common interests: food, sports"
+U13,"food, sports, art",3,P58,video,"food, sports",0.6,"Common interests: food, sports"
+U14,"sports, fitness, travel",1,P34,video,"travel, sports",0.6,"Common interests: sports, travel"
+U14,"sports, fitness, travel",2,P39,video,"travel, sports",0.6,"Common interests: sports, travel"
+U14,"sports, fitness, travel",3,P64,image,"travel, fitness",0.6,"Common interests: fitness, travel"
+U15,"fitness, art, gaming",1,P81,image,"gaming, fitness",1.0,"Common interests: gaming, fitness"
+U15,"fitness, art, gaming",2,P73,image,travel,0.30734963517707636,Popular content or collaborative filtering
+U15,"fitness, art, gaming",3,P18,image,fitness,0.3072189236710914,Common interests: fitness
+U16,"food, gaming, travel",1,P80,video,"travel, food",0.6,"Common interests: food, travel"
+U16,"food, gaming, travel",2,P82,image,"gaming, food",0.6,"Common interests: gaming, food"
+U16,"food, gaming, travel",3,P85,video,"food, gaming",0.6,"Common interests: gaming, food"
+U17,"music, travel, gaming",1,P2,video,"music, travel",0.6,"Common interests: music, travel"
+U17,"music, travel, gaming",2,P4,image,"music, gaming",0.6,"Common interests: music, gaming"
+U17,"music, travel, gaming",3,P99,image,"gaming, music",0.6,"Common interests: music, gaming"
+U18,"tech, art, fitness",1,P41,image,"fitness, tech",0.6,"Common interests: tech, fitness"
+U18,"tech, art, fitness",2,P72,image,"fitness, sports",0.4,Common interests: fitness
+U18,"tech, art, fitness",3,P1,video,"sports, food",0.3381855494452059,Popular content or collaborative filtering
+U19,"sports, gaming, fashion",1,P4,image,"music, gaming",0.6,Common interests: gaming
+U19,"sports, gaming, fashion",2,P5,image,"food, fashion",0.6,Common interests: fashion
+U19,"sports, gaming, fashion",3,P17,video,"food, sports",0.6,Common interests: sports
+U20,"music, food, travel",1,P1,video,"sports, food",0.7,Common interests: food
+U20,"music, food, travel",2,P2,video,"music, travel",0.6,"Common interests: music, travel"
+U20,"music, food, travel",3,P80,video,"travel, food",0.6,"Common interests: food, travel"
+U21,"literature, gaming, tech",1,P49,video,"tech, gaming",0.6,"Common interests: gaming, tech"
+U21,"literature, gaming, tech",2,P43,audio,"tech, gaming",0.5454545454545453,"Common interests: gaming, tech"
+U21,"literature, gaming, tech",3,P5,image,"food, fashion",0.4,Popular content or collaborative filtering
+U22,"fashion, travel, food",1,P1,video,"sports, food",0.6564251042181974,Common interests: food
+U22,"fashion, travel, food",2,P80,video,"travel, food",0.6,"Common interests: food, travel"
+U22,"fashion, travel, food",3,P7,image,"food, fitness",0.5613843560765932,Common interests: food
+U23,"sports, food, literature",1,P23,audio,"literature, food",0.8628513061010801,"Common interests: food, literature"
+U23,"sports, food, literature",2,P17,video,"food, sports",0.6,"Common interests: food, sports"
+U23,"sports, food, literature",3,P46,video,"food, sports",0.6,"Common interests: food, sports"
+U24,"fashion, art, food",1,P5,image,"food, fashion",0.6,"Common interests: fashion, food"
+U24,"fashion, art, food",2,P70,image,"art, food",0.6,"Common interests: art, food"
+U24,"fashion, art, food",3,P69,text,"fashion, food",0.5454545454545453,"Common interests: fashion, food"
+U25,"tech, travel, fitness",1,P41,image,"fitness, tech",0.6,"Common interests: tech, fitness"
+U25,"tech, travel, fitness",2,P64,image,"travel, fitness",0.6,"Common interests: fitness, travel"
+U25,"tech, travel, fitness",3,P63,image,"literature, music",0.4,Popular content or collaborative filtering
+U26,"food, fashion, sports",1,P1,video,"sports, food",0.6,"Common interests: food, sports"
+U26,"food, fashion, sports",2,P17,video,"food, sports",0.6,"Common interests: food, sports"
+U26,"food, fashion, sports",3,P46,video,"food, sports",0.6,"Common interests: food, sports"
+U27,"art, gaming, travel",1,P4,image,"music, gaming",0.6,Common interests: gaming
+U27,"art, gaming, travel",2,P9,image,travel,0.6,Common interests: travel
+U27,"art, gaming, travel",3,P10,video,art,0.6,Common interests: art
+U28,"fashion, travel, food",1,P1,video,"sports, food",0.6179982228720606,Common interests: food
+U28,"fashion, travel, food",2,P5,image,"food, fashion",0.6,"Common interests: fashion, food"
+U28,"fashion, travel, food",3,P42,video,"travel, fashion",0.6,"Common interests: fashion, travel"
+U29,"travel, gaming, fitness",1,P81,image,"gaming, fitness",0.6,"Common interests: gaming, fitness"
+U29,"travel, gaming, fitness",2,P17,video,"food, sports",0.4,Popular content or collaborative filtering
+U29,"travel, gaming, fitness",3,P23,audio,"literature, food",0.37150578086685937,Popular content or collaborative filtering
+U30,"literature, gaming, tech",1,P49,video,"tech, gaming",0.9640974854145405,"Common interests: gaming, tech"
+U30,"literature, gaming, tech",2,P43,audio,"tech, gaming",0.5454545454545453,"Common interests: gaming, tech"
+U30,"literature, gaming, tech",3,P79,image,literature,0.4,Common interests: literature
+U31,"music, sports, travel",1,P2,video,"music, travel",0.6,"Common interests: music, travel"
+U31,"music, sports, travel",2,P34,video,"travel, sports",0.6,"Common interests: sports, travel"
+U31,"music, sports, travel",3,P39,video,"travel, sports",0.6,"Common interests: sports, travel"
+U32,"gaming, food, literature",1,P82,image,"gaming, food",0.6,"Common interests: gaming, food"
+U32,"gaming, food, literature",2,P85,video,"food, gaming",0.6,"Common interests: gaming, food"
+U32,"gaming, food, literature",3,P23,audio,"literature, food",0.5454545454545453,"Common interests: food, literature"
+U33,"tech, sports, music",1,P29,audio,"sports, music",0.7638050463473034,"Common interests: music, sports"
+U33,"tech, sports, music",2,P52,video,"music, sports",0.6,"Common interests: music, sports"
+U33,"tech, sports, music",3,P60,video,"music, sports",0.6,"Common interests: music, sports"
+U34,"sports, fashion, gaming",1,P5,image,"food, fashion",0.8615913114411151,Common interests: fashion
+U34,"sports, fashion, gaming",2,P4,image,"music, gaming",0.6,Common interests: gaming
+U34,"sports, fashion, gaming",3,P6,image,sports,0.6,Common interests: sports
+U35,"food, tech, music",1,P37,text,"tech, music",0.6,"Common interests: music, tech"
+U35,"food, tech, music",2,P92,text,"tech, food",0.6,"Common interests: tech, food"
+U35,"food, tech, music",3,P40,text,"sports, fitness",0.4,Popular content or collaborative filtering
+U36,"travel, fitness, food",1,P26,image,"food, fitness",0.6,"Common interests: food, fitness"
+U36,"travel, fitness, food",2,P35,image,"fitness, food",0.6,"Common interests: food, fitness"
+U36,"travel, fitness, food",3,P64,image,"travel, fitness",0.6,"Common interests: fitness, travel"
+U37,"fitness, fashion, food",1,P5,image,"food, fashion",0.7995698596036984,"Common interests: fashion, food"
+U37,"fitness, fashion, food",2,P35,image,"fitness, food",0.6,"Common interests: food, fitness"
+U37,"fitness, fashion, food",3,P74,video,"fitness, fashion",0.6,"Common interests: fashion, fitness"
+U38,"gaming, art, fashion",1,P42,video,"travel, fashion",0.8374974038919455,Common interests: fashion
+U38,"gaming, art, fashion",2,P4,image,"music, gaming",0.6,Common interests: gaming
+U38,"gaming, art, fashion",3,P5,image,"food, fashion",0.6,Common interests: fashion
+U39,"literature, fitness, art",1,P21,image,"art, literature",0.6,"Common interests: art, literature"
+U39,"literature, fitness, art",2,P36,image,"literature, fitness",0.6,"Common interests: literature, fitness"
+U39,"literature, fitness, art",3,P61,video,"literature, art",0.6,"Common interests: art, literature"
+U40,"fashion, food, sports",1,P5,image,"food, fashion",0.8665212578992334,"Common interests: fashion, food"
+U40,"fashion, food, sports",2,P17,video,"food, sports",0.6,"Common interests: food, sports"
+U40,"fashion, food, sports",3,P46,video,"food, sports",0.6,"Common interests: food, sports"
+U41,"sports, literature, fashion",1,P57,text,"sports, literature",0.6,"Common interests: sports, literature"
+U41,"sports, literature, fashion",2,P77,text,"fitness, literature",0.4,Common interests: literature
+U41,"sports, literature, fashion",3,P46,video,"food, sports",0.33178202487783476,Common interests: sports
+U42,"literature, fashion, art",1,P21,image,"art, literature",0.6,"Common interests: art, literature"
+U42,"literature, fashion, art",2,P61,video,"literature, art",0.6,"Common interests: art, literature"
+U42,"literature, fashion, art",3,P66,text,"literature, art",0.5454545454545453,"Common interests: art, literature"
+U43,"tech, fitness, food",1,P41,image,"fitness, tech",0.886365182249633,"Common interests: tech, fitness"
+U43,"tech, fitness, food",2,P7,image,"food, fitness",0.6,"Common interests: food, fitness"
+U43,"tech, fitness, food",3,P26,image,"food, fitness",0.6,"Common interests: food, fitness"
+U44,"food, literature, travel",1,P1,video,"sports, food",0.7,Common interests: food
+U44,"food, literature, travel",2,P76,image,"literature, travel",0.6,"Common interests: literature, travel"
+U44,"food, literature, travel",3,P80,video,"travel, food",0.6,"Common interests: food, travel"
+U45,"food, sports, fitness",1,P26,image,"food, fitness",0.9275484505701016,"Common interests: food, fitness"
+U45,"food, sports, fitness",2,P72,image,"fitness, sports",0.8585642876461298,"Common interests: sports, fitness"
+U45,"food, sports, fitness",3,P1,video,"sports, food",0.6,"Common interests: food, sports"
+U46,"music, literature, food",1,P1,video,"sports, food",0.6184073003512733,Common interests: food
+U46,"music, literature, food",2,P63,image,"literature, music",0.6,"Common interests: music, literature"
+U46,"music, literature, food",3,P14,text,"literature, music",0.5454545454545453,"Common interests: music, literature"
+U47,"music, sports, fitness",1,P52,video,"music, sports",0.8476399144064567,"Common interests: music, sports"
+U47,"music, sports, fitness",2,P60,video,"music, sports",0.6,"Common interests: music, sports"
+U47,"music, sports, fitness",3,P29,audio,"sports, music",0.5454545454545453,"Common interests: music, sports"
+U48,"gaming, literature, travel",1,P76,image,"literature, travel",0.6,"Common interests: literature, travel"
+U48,"gaming, literature, travel",2,P71,text,"literature, travel",0.5454545454545453,"Common interests: literature, travel"
+U48,"gaming, literature, travel",3,P5,image,"food, fashion",0.4,Popular content or collaborative filtering
+U49,"music, art, fashion",1,P83,text,"art, music",0.6,"Common interests: music, art"
+U49,"music, art, fashion",2,P90,video,literature,0.4,Popular content or collaborative filtering
+U49,"music, art, fashion",3,P4,image,"music, gaming",0.33,Common interests: music
+U50,"music, travel, fitness",1,P2,video,"music, travel",0.6,"Common interests: music, travel"
+U50,"music, travel, fitness",2,P64,image,"travel, fitness",0.6,"Common interests: fitness, travel"
+U50,"music, travel, fitness",3,P73,image,travel,0.4,Common interests: travel
